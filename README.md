@@ -1,4 +1,4 @@
-<img src="Assets/ArremateiLogo.png" alt="Banner Arrematei" style="width: 100%;">
+<img src="Assets/ArremateiBanner.png" alt="Banner Arrematei" style="width: 100%;">
 
 <div align="center">
   <h1><span style="color: #000000;">Arrematei</span> - Sistema Web de Leilão</h1>
