@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/ArremateiLogo.png" alt="Logo Arrematei" width="150">
+  <img src="Assets/ArremateiLogo.png" alt="Logo Arrematei" width="150">
   <h1><span style="color: #000000;">Arrematei</span> - Sistema Web de Leilão</h1>
   <p>Uma plataforma online para você dar seus lances e arrematar os melhores negócios!</p>
 </div>
